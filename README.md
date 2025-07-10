@@ -82,5 +82,5 @@ est de `0.68` avec:
 ## Modifications réalisées sur le code existant:
 
 - Ajout d'une boucle permettant d'automatiser l'entrainement et les tests
-- Ajout d'un aspect aléatoire pour `EPOCHS`, `BATCH_SIZE` et `TEST_SIZE`
+- Ajout d'un aspect aléatoire contrôlé pour `EPOCHS`, `BATCH_SIZE` et `TEST_SIZE`
 - Connexion avec ML FLOW pour visualiser les résultats et pouvoir trier par le paramètre R² afin d'obtenir les meilleurs paramètres
