@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/0dd5d08e7cf542bca5cf4495af73b49a/artifacts
+deleted_time: 1752050480282
+end_time: 1752050218311
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: deleted
+run_id: 0dd5d08e7cf542bca5cf4495af73b49a
+run_name: flawless-foal-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752050207657
+status: 3
+tags: []
+user_id: emmanuel

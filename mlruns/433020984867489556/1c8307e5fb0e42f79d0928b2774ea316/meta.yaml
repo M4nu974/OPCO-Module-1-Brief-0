@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/1c8307e5fb0e42f79d0928b2774ea316/artifacts
+deleted_time: 1752055351848
+end_time: 1752053583924
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 1c8307e5fb0e42f79d0928b2774ea316
+run_name: entertaining-eel-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053575891
+status: 3
+tags: []
+user_id: emmanuel

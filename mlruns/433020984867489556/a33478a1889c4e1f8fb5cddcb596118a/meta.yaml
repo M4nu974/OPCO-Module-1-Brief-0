@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/a33478a1889c4e1f8fb5cddcb596118a/artifacts
+deleted_time: 1752055351741
+end_time: 1752053700920
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: a33478a1889c4e1f8fb5cddcb596118a
+run_name: bedecked-foal-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053675586
+status: 3
+tags: []
+user_id: emmanuel

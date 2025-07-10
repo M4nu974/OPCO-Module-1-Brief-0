@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/91525b429d2a46268df9d26f09add1ca/artifacts
+deleted_time: 1752066425348
+end_time: 1752056363966
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 91525b429d2a46268df9d26f09add1ca
+run_name: luminous-bird-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056344749
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/b542bd3266c8455290182e4795ba3ed2/artifacts
+deleted_time: 1752066425412
+end_time: 1752056208337
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: b542bd3266c8455290182e4795ba3ed2
+run_name: fun-hawk-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056176771
+status: 3
+tags: []
+user_id: emmanuel

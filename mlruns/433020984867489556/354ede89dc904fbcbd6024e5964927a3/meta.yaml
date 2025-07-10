@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/354ede89dc904fbcbd6024e5964927a3/artifacts
+deleted_time: 1752066425441
+end_time: 1752056713268
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 354ede89dc904fbcbd6024e5964927a3
+run_name: monumental-chimp-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056697103
+status: 3
+tags: []
+user_id: emmanuel

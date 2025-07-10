@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/57ca5c82a77c42098948b289d6f5bbb0/artifacts
+deleted_time: 1752055351781
+end_time: 1752053845377
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 57ca5c82a77c42098948b289d6f5bbb0
+run_name: beautiful-shrimp-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053823399
+status: 3
+tags: []
+user_id: emmanuel

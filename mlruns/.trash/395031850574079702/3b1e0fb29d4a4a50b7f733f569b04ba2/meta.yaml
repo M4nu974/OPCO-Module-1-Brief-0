@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395031850574079702/3b1e0fb29d4a4a50b7f733f569b04ba2/artifacts
+deleted_time: 1752049824572
+end_time: 1752048881028
+entry_point_name: ''
+experiment_id: '395031850574079702'
+lifecycle_stage: deleted
+run_id: 3b1e0fb29d4a4a50b7f733f569b04ba2
+run_name: bald-panda-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752048876861
+status: 3
+tags: []
+user_id: emmanuel

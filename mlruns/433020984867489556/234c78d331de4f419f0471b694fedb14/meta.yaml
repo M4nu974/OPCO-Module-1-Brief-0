@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/234c78d331de4f419f0471b694fedb14/artifacts
+deleted_time: 1752066425439
+end_time: 1752056056745
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 234c78d331de4f419f0471b694fedb14
+run_name: hilarious-wren-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056044788
+status: 3
+tags: []
+user_id: emmanuel

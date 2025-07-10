@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/6de6542d13984966b8a9891549d029da/artifacts
+deleted_time: 1752055351840
+end_time: 1752053624886
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 6de6542d13984966b8a9891549d029da
+run_name: zealous-donkey-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053613267
+status: 3
+tags: []
+user_id: emmanuel

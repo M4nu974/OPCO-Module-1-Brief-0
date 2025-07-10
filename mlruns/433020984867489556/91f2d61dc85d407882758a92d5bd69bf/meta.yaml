@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/91f2d61dc85d407882758a92d5bd69bf/artifacts
+deleted_time: 1752066425380
+end_time: 1752056827363
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 91f2d61dc85d407882758a92d5bd69bf
+run_name: treasured-cod-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056809525
+status: 3
+tags: []
+user_id: emmanuel

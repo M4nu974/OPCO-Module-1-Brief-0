@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/3771131f8c4d47f1b97c5f3f9ed9c7cf/artifacts
+deleted_time: 1752055351802
+end_time: 1752053933495
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 3771131f8c4d47f1b97c5f3f9ed9c7cf
+run_name: delightful-kite-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053911255
+status: 3
+tags: []
+user_id: emmanuel

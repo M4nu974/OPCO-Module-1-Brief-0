@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/e1ad5418c0f14671bc51a07d2237e424/artifacts
+end_time: 1752070863659
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: e1ad5418c0f14671bc51a07d2237e424
+run_name: painted-asp-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070837717
+status: 3
+tags: []
+user_id: emmanuel

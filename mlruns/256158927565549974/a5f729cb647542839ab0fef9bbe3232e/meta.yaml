@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/a5f729cb647542839ab0fef9bbe3232e/artifacts
+end_time: 1752052060704
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: a5f729cb647542839ab0fef9bbe3232e
+run_name: able-shark-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052033382
+status: 3
+tags: []
+user_id: emmanuel

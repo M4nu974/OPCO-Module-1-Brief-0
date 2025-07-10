@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/c0a23f37a3e0446393b48524940fbd25/artifacts
+end_time: 1752050500430
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: c0a23f37a3e0446393b48524940fbd25
+run_name: debonair-mouse-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752050487652
+status: 3
+tags: []
+user_id: emmanuel

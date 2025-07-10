@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/827ea85254124a55b4367e6cb4fabea1/artifacts
+end_time: 1752052230863
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 827ea85254124a55b4367e6cb4fabea1
+run_name: grandiose-worm-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052202426
+status: 3
+tags: []
+user_id: emmanuel

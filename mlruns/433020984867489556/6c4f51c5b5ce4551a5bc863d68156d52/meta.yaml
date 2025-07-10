@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/6c4f51c5b5ce4551a5bc863d68156d52/artifacts
+end_time: 1752066635243
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 6c4f51c5b5ce4551a5bc863d68156d52
+run_name: valuable-mole-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066616530
+status: 3
+tags: []
+user_id: emmanuel

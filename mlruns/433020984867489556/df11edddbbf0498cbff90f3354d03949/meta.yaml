@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/df11edddbbf0498cbff90f3354d03949/artifacts
+end_time: 1752066675548
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: df11edddbbf0498cbff90f3354d03949
+run_name: orderly-stoat-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066658621
+status: 3
+tags: []
+user_id: emmanuel

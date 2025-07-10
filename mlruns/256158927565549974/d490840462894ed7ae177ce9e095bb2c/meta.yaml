@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/d490840462894ed7ae177ce9e095bb2c/artifacts
+end_time: 1752052342658
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: d490840462894ed7ae177ce9e095bb2c
+run_name: rambunctious-calf-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052303749
+status: 3
+tags: []
+user_id: emmanuel

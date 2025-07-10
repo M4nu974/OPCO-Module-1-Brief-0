@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/ac7ffb5ab4ff41cfb99e33749c377235/artifacts
+end_time: 1752070882440
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: ac7ffb5ab4ff41cfb99e33749c377235
+run_name: wise-whale-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070863670
+status: 3
+tags: []
+user_id: emmanuel

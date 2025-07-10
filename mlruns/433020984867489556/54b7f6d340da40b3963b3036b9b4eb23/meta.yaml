@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/54b7f6d340da40b3963b3036b9b4eb23/artifacts
+deleted_time: 1752066425380
+end_time: 1752056091865
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 54b7f6d340da40b3963b3036b9b4eb23
+run_name: rumbling-smelt-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056056758
+status: 3
+tags: []
+user_id: emmanuel

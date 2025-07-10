@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/21d755dde7834640bc70feffa3a187b3/artifacts
+end_time: 1752052280667
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 21d755dde7834640bc70feffa3a187b3
+run_name: sincere-hawk-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052260287
+status: 3
+tags: []
+user_id: emmanuel

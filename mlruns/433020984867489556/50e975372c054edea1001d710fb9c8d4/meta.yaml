@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/50e975372c054edea1001d710fb9c8d4/artifacts
+end_time: 1752067679413
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 50e975372c054edea1001d710fb9c8d4
+run_name: likeable-vole-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067636805
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/9b06c138411e49debe2d30ed4f69b1e8/artifacts
+deleted_time: 1752066425396
+end_time: 1752056176758
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 9b06c138411e49debe2d30ed4f69b1e8
+run_name: suave-rook-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056158919
+status: 3
+tags: []
+user_id: emmanuel

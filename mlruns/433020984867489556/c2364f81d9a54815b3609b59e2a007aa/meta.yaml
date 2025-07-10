@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/c2364f81d9a54815b3609b59e2a007aa/artifacts
+end_time: 1752081397045
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: c2364f81d9a54815b3609b59e2a007aa
+run_name: worried-skink-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752081379943
+status: 3
+tags: []
+user_id: emmanuel

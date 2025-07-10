@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/b9a9564c677f481a9b9c5688ff7d975b/artifacts
+deleted_time: 1752066425453
+end_time: 1752055742748
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: b9a9564c677f481a9b9c5688ff7d975b
+run_name: bright-pig-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055717195
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395031850574079702/da043baa71fd4e21a8c4a9e72830c622/artifacts
+deleted_time: 1752049824572
+end_time: 1752049313923
+entry_point_name: ''
+experiment_id: '395031850574079702'
+lifecycle_stage: deleted
+run_id: da043baa71fd4e21a8c4a9e72830c622
+run_name: stately-mare-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752049309748
+status: 3
+tags: []
+user_id: emmanuel

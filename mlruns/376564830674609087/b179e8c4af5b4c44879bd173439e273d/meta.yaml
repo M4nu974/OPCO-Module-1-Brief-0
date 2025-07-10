@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/b179e8c4af5b4c44879bd173439e273d/artifacts
+end_time: 1752073722804
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: b179e8c4af5b4c44879bd173439e273d
+run_name: nosy-cat-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752073711085
+status: 3
+tags: []
+user_id: emmanuel

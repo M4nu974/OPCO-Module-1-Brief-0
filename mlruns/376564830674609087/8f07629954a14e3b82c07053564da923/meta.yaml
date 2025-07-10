@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/8f07629954a14e3b82c07053564da923/artifacts
+end_time: 1752071145273
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: 8f07629954a14e3b82c07053564da923
+run_name: rogue-grouse-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752071118811
+status: 3
+tags: []
+user_id: emmanuel

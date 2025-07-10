@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/392a2261f459475dac065e3d7e567252/artifacts
+end_time: 1752073644025
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: 392a2261f459475dac065e3d7e567252
+run_name: magnificent-gnu-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752073632856
+status: 3
+tags: []
+user_id: emmanuel

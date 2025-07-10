@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/80acca459e9943848f4cf5e29389ccc6/artifacts
+deleted_time: 1752055351813
+end_time: 1752053613256
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 80acca459e9943848f4cf5e29389ccc6
+run_name: nebulous-moose-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053583935
+status: 3
+tags: []
+user_id: emmanuel

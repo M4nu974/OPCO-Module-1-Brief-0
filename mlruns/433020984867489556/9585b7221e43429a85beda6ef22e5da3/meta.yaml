@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/9585b7221e43429a85beda6ef22e5da3/artifacts
+end_time: 1752066810982
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 9585b7221e43429a85beda6ef22e5da3
+run_name: unruly-lark-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066769792
+status: 3
+tags: []
+user_id: emmanuel

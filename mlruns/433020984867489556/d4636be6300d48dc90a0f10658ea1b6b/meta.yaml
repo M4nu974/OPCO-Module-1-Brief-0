@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/d4636be6300d48dc90a0f10658ea1b6b/artifacts
+deleted_time: 1752055351753
+end_time: 1752054440543
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: d4636be6300d48dc90a0f10658ea1b6b
+run_name: persistent-stoat-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054424882
+status: 3
+tags: []
+user_id: emmanuel

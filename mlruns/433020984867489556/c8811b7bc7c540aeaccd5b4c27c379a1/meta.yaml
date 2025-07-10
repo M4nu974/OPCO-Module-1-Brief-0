@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/c8811b7bc7c540aeaccd5b4c27c379a1/artifacts
+deleted_time: 1752055351780
+end_time: 1752054679455
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: c8811b7bc7c540aeaccd5b4c27c379a1
+run_name: selective-hen-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054649835
+status: 3
+tags: []
+user_id: emmanuel

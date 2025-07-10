@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/62ca1e09d56943fdb500656a6363d6b2/artifacts
+end_time: 1752071062927
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: 62ca1e09d56943fdb500656a6363d6b2
+run_name: tasteful-bear-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752071036043
+status: 3
+tags: []
+user_id: emmanuel

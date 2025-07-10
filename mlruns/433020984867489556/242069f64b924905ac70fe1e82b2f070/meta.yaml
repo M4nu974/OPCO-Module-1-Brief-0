@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/242069f64b924905ac70fe1e82b2f070/artifacts
+end_time: 1752067745245
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 242069f64b924905ac70fe1e82b2f070
+run_name: glamorous-pig-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067719410
+status: 4
+tags: []
+user_id: emmanuel

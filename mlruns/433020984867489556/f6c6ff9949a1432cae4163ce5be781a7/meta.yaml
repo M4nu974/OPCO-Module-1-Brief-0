@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/f6c6ff9949a1432cae4163ce5be781a7/artifacts
+deleted_time: 1752055351812
+end_time: 1752054097875
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: f6c6ff9949a1432cae4163ce5be781a7
+run_name: caring-sloth-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054064894
+status: 3
+tags: []
+user_id: emmanuel

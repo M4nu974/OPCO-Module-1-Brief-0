@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/fdd12c7e6d224cc0a7e50342a2de4a10/artifacts
+deleted_time: 1752066425468
+end_time: 1752056044776
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: fdd12c7e6d224cc0a7e50342a2de4a10
+run_name: calm-koi-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056030066
+status: 3
+tags: []
+user_id: emmanuel

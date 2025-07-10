@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/b74f12708b64420f9ed181da397891ae/artifacts
+end_time: 1752052202413
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: b74f12708b64420f9ed181da397891ae
+run_name: bemused-mule-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052172004
+status: 3
+tags: []
+user_id: emmanuel

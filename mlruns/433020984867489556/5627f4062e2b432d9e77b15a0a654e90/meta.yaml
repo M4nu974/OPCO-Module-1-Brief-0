@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/5627f4062e2b432d9e77b15a0a654e90/artifacts
+deleted_time: 1752066425352
+end_time: 1752056583317
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 5627f4062e2b432d9e77b15a0a654e90
+run_name: capricious-eel-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056565173
+status: 3
+tags: []
+user_id: emmanuel

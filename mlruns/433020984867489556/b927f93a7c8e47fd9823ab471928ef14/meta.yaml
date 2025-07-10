@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/b927f93a7c8e47fd9823ab471928ef14/artifacts
+deleted_time: 1752066425317
+end_time: 1752062359916
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: b927f93a7c8e47fd9823ab471928ef14
+run_name: exultant-shrimp-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752062328879
+status: 3
+tags: []
+user_id: emmanuel

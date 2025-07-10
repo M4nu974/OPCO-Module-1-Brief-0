@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/fd24e199077441419ed62f245ac4c29e/artifacts
+deleted_time: 1752066425396
+end_time: 1752056271715
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: fd24e199077441419ed62f245ac4c29e
+run_name: orderly-boar-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056250108
+status: 3
+tags: []
+user_id: emmanuel

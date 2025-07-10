@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/e66bb9b7360b47bfa2add12aed7391c0/artifacts
+deleted_time: 1752070316240
+end_time: 1752069809403
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: e66bb9b7360b47bfa2add12aed7391c0
+run_name: capricious-bird-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752069777138
+status: 3
+tags: []
+user_id: emmanuel

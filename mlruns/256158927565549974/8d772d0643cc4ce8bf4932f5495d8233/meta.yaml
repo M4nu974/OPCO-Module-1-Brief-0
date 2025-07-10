@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/8d772d0643cc4ce8bf4932f5495d8233/artifacts
+end_time: 1752051552935
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 8d772d0643cc4ce8bf4932f5495d8233
+run_name: upset-sloth-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051536100
+status: 3
+tags: []
+user_id: emmanuel

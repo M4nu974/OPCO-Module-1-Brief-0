@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/bb119778518246d9b298c1acb26d8c25/artifacts
+end_time: 1752067370374
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: bb119778518246d9b298c1acb26d8c25
+run_name: overjoyed-shoat-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067337706
+status: 3
+tags: []
+user_id: emmanuel

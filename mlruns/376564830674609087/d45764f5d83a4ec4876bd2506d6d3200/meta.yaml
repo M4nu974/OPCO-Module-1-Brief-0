@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/d45764f5d83a4ec4876bd2506d6d3200/artifacts
+end_time: 1752071036030
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: d45764f5d83a4ec4876bd2506d6d3200
+run_name: crawling-grub-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752071017592
+status: 3
+tags: []
+user_id: emmanuel

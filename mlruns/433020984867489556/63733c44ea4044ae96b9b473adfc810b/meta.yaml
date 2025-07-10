@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/63733c44ea4044ae96b9b473adfc810b/artifacts
+deleted_time: 1752055351766
+end_time: 1752054006539
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 63733c44ea4044ae96b9b473adfc810b
+run_name: stylish-squirrel-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053977675
+status: 3
+tags: []
+user_id: emmanuel

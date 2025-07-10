@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/ef7fe0eb423f4ba6b62ffdd292358249/artifacts
+deleted_time: 1752055351837
+end_time: 1752054597063
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: ef7fe0eb423f4ba6b62ffdd292358249
+run_name: honorable-whale-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054576825
+status: 3
+tags: []
+user_id: emmanuel

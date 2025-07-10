@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e73f62e8fbd40f7b37ff9b0ca22c037/artifacts
+end_time: 1752045145612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e73f62e8fbd40f7b37ff9b0ca22c037
+run_name: salty-fly-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752045140400
+status: 4
+tags: []
+user_id: emmanuel

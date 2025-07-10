@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/a978be909a844cdea34e489a518bebbf/artifacts
+deleted_time: 1752055351800
+end_time: 1752053675573
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: a978be909a844cdea34e489a518bebbf
+run_name: able-roo-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053655593
+status: 3
+tags: []
+user_id: emmanuel

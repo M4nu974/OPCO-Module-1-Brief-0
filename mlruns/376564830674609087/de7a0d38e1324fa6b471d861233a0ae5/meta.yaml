@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/de7a0d38e1324fa6b471d861233a0ae5/artifacts
+deleted_time: 1752070316272
+end_time: 1752069861531
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: de7a0d38e1324fa6b471d861233a0ae5
+run_name: beautiful-kit-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752069843457
+status: 3
+tags: []
+user_id: emmanuel

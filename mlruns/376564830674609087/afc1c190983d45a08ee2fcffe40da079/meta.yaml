@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/afc1c190983d45a08ee2fcffe40da079/artifacts
+end_time: 1752074458392
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: afc1c190983d45a08ee2fcffe40da079
+run_name: tasteful-duck-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752074458101
+status: 3
+tags: []
+user_id: emmanuel

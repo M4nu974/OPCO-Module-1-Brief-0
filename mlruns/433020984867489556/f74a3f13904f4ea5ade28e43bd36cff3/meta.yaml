@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/f74a3f13904f4ea5ade28e43bd36cff3/artifacts
+deleted_time: 1752066425428
+end_time: 1752056124079
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: f74a3f13904f4ea5ade28e43bd36cff3
+run_name: puzzled-shark-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056091878
+status: 3
+tags: []
+user_id: emmanuel

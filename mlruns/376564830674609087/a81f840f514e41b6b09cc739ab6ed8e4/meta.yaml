@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/a81f840f514e41b6b09cc739ab6ed8e4/artifacts
+end_time: 1752070590399
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: a81f840f514e41b6b09cc739ab6ed8e4
+run_name: rare-ox-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070549339
+status: 3
+tags: []
+user_id: emmanuel

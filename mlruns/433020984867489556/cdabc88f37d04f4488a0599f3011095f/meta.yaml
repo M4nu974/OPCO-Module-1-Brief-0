@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/cdabc88f37d04f4488a0599f3011095f/artifacts
+deleted_time: 1752066425317
+end_time: 1752063852328
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: cdabc88f37d04f4488a0599f3011095f
+run_name: incongruous-dog-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752063815802
+status: 3
+tags: []
+user_id: emmanuel

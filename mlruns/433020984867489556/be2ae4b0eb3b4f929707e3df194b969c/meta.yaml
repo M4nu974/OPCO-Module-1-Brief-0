@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/be2ae4b0eb3b4f929707e3df194b969c/artifacts
+deleted_time: 1752066425332
+end_time: 1752061135121
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: be2ae4b0eb3b4f929707e3df194b969c
+run_name: loud-mole-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752061114709
+status: 3
+tags: []
+user_id: emmanuel

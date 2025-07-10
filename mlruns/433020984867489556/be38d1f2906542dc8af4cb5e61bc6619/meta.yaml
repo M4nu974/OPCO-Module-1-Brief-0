@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/be38d1f2906542dc8af4cb5e61bc6619/artifacts
+deleted_time: 1752055351781
+end_time: 1752053911244
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: be38d1f2906542dc8af4cb5e61bc6619
+run_name: carefree-elk-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053879252
+status: 3
+tags: []
+user_id: emmanuel

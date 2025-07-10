@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/0bbe87dd74c64b4da81b9ad00eab04e9/artifacts
+end_time: 1752066616519
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 0bbe87dd74c64b4da81b9ad00eab04e9
+run_name: thundering-snake-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066594790
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/89ac319856d24260ad6972b6673ee52b/artifacts
+deleted_time: 1752055351800
+end_time: 1752053655581
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 89ac319856d24260ad6972b6673ee52b
+run_name: worried-gnu-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053635916
+status: 3
+tags: []
+user_id: emmanuel

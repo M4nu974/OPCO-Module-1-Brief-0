@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/b295173a7ae64aacade79f98ee8479ea/artifacts
+end_time: 1752067451180
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: b295173a7ae64aacade79f98ee8479ea
+run_name: delightful-slug-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067414757
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/303741102e0f4ec99995977d8db55eab/artifacts
+end_time: 1752051941328
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 303741102e0f4ec99995977d8db55eab
+run_name: monumental-hound-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051916413
+status: 3
+tags: []
+user_id: emmanuel

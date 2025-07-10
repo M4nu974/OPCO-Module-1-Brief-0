@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/10478d065f6644f2b893b733d30cdbcb/artifacts
+end_time: 1752051369297
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 10478d065f6644f2b893b733d30cdbcb
+run_name: rambunctious-hog-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051361644
+status: 3
+tags: []
+user_id: emmanuel

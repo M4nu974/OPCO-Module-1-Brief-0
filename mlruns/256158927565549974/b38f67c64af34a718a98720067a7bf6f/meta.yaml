@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/b38f67c64af34a718a98720067a7bf6f/artifacts
+end_time: 1752051536090
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: b38f67c64af34a718a98720067a7bf6f
+run_name: placid-koi-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051517726
+status: 3
+tags: []
+user_id: emmanuel

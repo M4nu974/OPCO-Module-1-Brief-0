@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/0fc39c6e2cb54826b7aa0cbce127373d/artifacts
+end_time: 1752074493359
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: 0fc39c6e2cb54826b7aa0cbce127373d
+run_name: gifted-stoat-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752074493055
+status: 3
+tags: []
+user_id: emmanuel

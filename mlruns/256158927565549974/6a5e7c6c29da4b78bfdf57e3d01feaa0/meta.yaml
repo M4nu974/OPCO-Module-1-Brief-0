@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/6a5e7c6c29da4b78bfdf57e3d01feaa0/artifacts
+end_time: 1752051916399
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 6a5e7c6c29da4b78bfdf57e3d01feaa0
+run_name: funny-shrew-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051887891
+status: 3
+tags: []
+user_id: emmanuel

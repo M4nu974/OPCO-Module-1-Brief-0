@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/1d12baee4f754a0e958cdb681b115f74/artifacts
+end_time: 1752067636793
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 1d12baee4f754a0e958cdb681b115f74
+run_name: invincible-rat-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067619391
+status: 3
+tags: []
+user_id: emmanuel

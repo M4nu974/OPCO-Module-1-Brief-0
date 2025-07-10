@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/05af118ba6e841e184ac2bc4910eb60b/artifacts
+end_time: 1752051741935
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 05af118ba6e841e184ac2bc4910eb60b
+run_name: tasteful-dove-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051708950
+status: 3
+tags: []
+user_id: emmanuel

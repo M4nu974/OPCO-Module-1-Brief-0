@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/df829f0eb270470094cc95c5cf3eb632/artifacts
+deleted_time: 1752055351812
+end_time: 1752053823384
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: df829f0eb270470094cc95c5cf3eb632
+run_name: learned-hawk-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053809627
+status: 3
+tags: []
+user_id: emmanuel

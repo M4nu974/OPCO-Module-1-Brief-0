@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/433020984867489556/models/m-bc653099990346d19641bf2f4691e6e3/artifacts
+creation_timestamp: 1752066399391
+experiment_id: '433020984867489556'
+last_updated_timestamp: 1752066403517
+model_id: m-bc653099990346d19641bf2f4691e6e3
+model_type: ''
+name: assurances_new_data
+source_run_id: a024cba66cf143399c9976fff46894b4
+status: 2
+status_message: null

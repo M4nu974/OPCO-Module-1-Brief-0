@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/707c30cf4f3948f7badd7e8daf8a6747/artifacts
+deleted_time: 1752055351755
+end_time: 1752053575881
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 707c30cf4f3948f7badd7e8daf8a6747
+run_name: upbeat-rat-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053534603
+status: 3
+tags: []
+user_id: emmanuel

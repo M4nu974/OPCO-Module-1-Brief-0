@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/b2d1633c369e4bcd97ffe816dcedb80c/artifacts
+deleted_time: 1752066425335
+end_time: 1752062660061
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: b2d1633c369e4bcd97ffe816dcedb80c
+run_name: bemused-flea-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752062619302
+status: 3
+tags: []
+user_id: emmanuel

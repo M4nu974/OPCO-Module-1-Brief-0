@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/cb68c0385b62421bbacb374de69c1ac8/artifacts
+deleted_time: 1752070316246
+end_time: 1752069360580
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: cb68c0385b62421bbacb374de69c1ac8
+run_name: whimsical-stoat-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752069336563
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/4a01e64395c540429ffbc02d84a656b4/artifacts
+deleted_time: 1752070316270
+end_time: 1752069906170
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: 4a01e64395c540429ffbc02d84a656b4
+run_name: capable-gnat-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752069881905
+status: 3
+tags: []
+user_id: emmanuel

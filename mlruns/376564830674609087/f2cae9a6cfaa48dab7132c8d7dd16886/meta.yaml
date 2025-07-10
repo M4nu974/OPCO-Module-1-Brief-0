@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/f2cae9a6cfaa48dab7132c8d7dd16886/artifacts
+end_time: 1752070679785
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: f2cae9a6cfaa48dab7132c8d7dd16886
+run_name: grandiose-chimp-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070640618
+status: 3
+tags: []
+user_id: emmanuel

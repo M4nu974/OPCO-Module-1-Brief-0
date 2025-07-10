@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/a57acf060d53487ebeb3eef72bd71d75/artifacts
+end_time: 1752067719397
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: a57acf060d53487ebeb3eef72bd71d75
+run_name: defiant-moose-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067679428
+status: 3
+tags: []
+user_id: emmanuel

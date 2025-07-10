@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/8e06731885d841a79b5a059bcde33353/artifacts
+deleted_time: 1752066425332
+end_time: 1752055717183
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 8e06731885d841a79b5a059bcde33353
+run_name: valuable-snake-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055682970
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/02fc3b9a0c5842159baa7190ffde0ffb/artifacts
+deleted_time: 1752066425307
+end_time: 1752064131223
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 02fc3b9a0c5842159baa7190ffde0ffb
+run_name: delicate-hen-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752064089708
+status: 3
+tags: []
+user_id: emmanuel

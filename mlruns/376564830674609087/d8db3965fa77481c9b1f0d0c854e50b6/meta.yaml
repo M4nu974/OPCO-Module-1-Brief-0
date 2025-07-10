@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/d8db3965fa77481c9b1f0d0c854e50b6/artifacts
+end_time: 1752070490842
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: d8db3965fa77481c9b1f0d0c854e50b6
+run_name: awesome-moose-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070464000
+status: 3
+tags: []
+user_id: emmanuel

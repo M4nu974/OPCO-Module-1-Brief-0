@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/933e67666c9143bca28dee7e8788d0fa/artifacts
+deleted_time: 1752055351812
+end_time: 1752053738689
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 933e67666c9143bca28dee7e8788d0fa
+run_name: fun-moth-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752053722291
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/c7efb44cefbf46df80b7489e2cbd903b/artifacts
+deleted_time: 1752066425442
+end_time: 1752056001910
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: c7efb44cefbf46df80b7489e2cbd903b
+run_name: upset-yak-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055975195
+status: 3
+tags: []
+user_id: emmanuel

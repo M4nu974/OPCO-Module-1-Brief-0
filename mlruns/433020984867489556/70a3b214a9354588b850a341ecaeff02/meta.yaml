@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/70a3b214a9354588b850a341ecaeff02/artifacts
+deleted_time: 1752055351768
+end_time: 1752054558900
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 70a3b214a9354588b850a341ecaeff02
+run_name: indecisive-gnu-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054539706
+status: 3
+tags: []
+user_id: emmanuel

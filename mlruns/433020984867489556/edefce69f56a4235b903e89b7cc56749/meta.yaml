@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/edefce69f56a4235b903e89b7cc56749/artifacts
+deleted_time: 1752055351755
+end_time: 1752054424871
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: edefce69f56a4235b903e89b7cc56749
+run_name: rare-mink-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054386809
+status: 3
+tags: []
+user_id: emmanuel

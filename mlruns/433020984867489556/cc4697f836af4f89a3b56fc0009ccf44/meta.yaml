@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/cc4697f836af4f89a3b56fc0009ccf44/artifacts
+deleted_time: 1752066425366
+end_time: 1752055975184
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: cc4697f836af4f89a3b56fc0009ccf44
+run_name: silent-zebra-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055943927
+status: 3
+tags: []
+user_id: emmanuel

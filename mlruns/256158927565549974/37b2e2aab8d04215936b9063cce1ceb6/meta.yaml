@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/37b2e2aab8d04215936b9063cce1ceb6/artifacts
+end_time: 1752052287810
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 37b2e2aab8d04215936b9063cce1ceb6
+run_name: tasteful-panda-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052280681
+status: 3
+tags: []
+user_id: emmanuel

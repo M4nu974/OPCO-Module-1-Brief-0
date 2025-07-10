@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/c405c21fd86d459586dbe2290213e27a/artifacts
+deleted_time: 1752055351743
+end_time: 1752054386795
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: c405c21fd86d459586dbe2290213e27a
+run_name: indecisive-robin-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054346717
+status: 3
+tags: []
+user_id: emmanuel

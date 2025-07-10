@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/82a3942a35db41a1bb2850a7a030a1b5/artifacts
+end_time: 1752066769778
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 82a3942a35db41a1bb2850a7a030a1b5
+run_name: salty-bird-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066728232
+status: 3
+tags: []
+user_id: emmanuel

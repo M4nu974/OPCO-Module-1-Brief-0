@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395031850574079702/57975a3e57f342a39810c756b86e5de1/artifacts
+deleted_time: 1752049824572
+end_time: 1752046624223
+entry_point_name: ''
+experiment_id: '395031850574079702'
+lifecycle_stage: deleted
+run_id: 57975a3e57f342a39810c756b86e5de1
+run_name: languid-doe-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752046624173
+status: 3
+tags: []
+user_id: emmanuel

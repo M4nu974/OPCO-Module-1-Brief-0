@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/d5bb08ecbdd34d989e6ff635bbf61214/artifacts
+deleted_time: 1752066425469
+end_time: 1752055607214
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: d5bb08ecbdd34d989e6ff635bbf61214
+run_name: worried-crab-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055605771
+status: 4
+tags: []
+user_id: emmanuel

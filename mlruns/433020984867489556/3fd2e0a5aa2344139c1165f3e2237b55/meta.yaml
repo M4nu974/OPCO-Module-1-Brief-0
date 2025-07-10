@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/3fd2e0a5aa2344139c1165f3e2237b55/artifacts
+end_time: 1752067273412
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 3fd2e0a5aa2344139c1165f3e2237b55
+run_name: honorable-kit-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067235501
+status: 3
+tags: []
+user_id: emmanuel

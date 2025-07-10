@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/7d26e3771ad644bfa6f7176fb3818914/artifacts
+deleted_time: 1752066425454
+end_time: 1752055850482
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 7d26e3771ad644bfa6f7176fb3818914
+run_name: adaptable-hog-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055814500
+status: 3
+tags: []
+user_id: emmanuel

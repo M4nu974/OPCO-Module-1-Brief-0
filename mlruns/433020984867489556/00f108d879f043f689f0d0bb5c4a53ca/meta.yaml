@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/00f108d879f043f689f0d0bb5c4a53ca/artifacts
+end_time: 1752067619376
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 00f108d879f043f689f0d0bb5c4a53ca
+run_name: burly-goose-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067593291
+status: 3
+tags: []
+user_id: emmanuel

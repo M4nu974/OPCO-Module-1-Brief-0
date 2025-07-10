@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/abb96f058391476ea29eac2fe258d7f2/artifacts
+end_time: 1752051565552
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: abb96f058391476ea29eac2fe258d7f2
+run_name: blushing-mink-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051552946
+status: 3
+tags: []
+user_id: emmanuel

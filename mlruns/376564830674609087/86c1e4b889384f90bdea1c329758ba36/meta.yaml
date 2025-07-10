@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/86c1e4b889384f90bdea1c329758ba36/artifacts
+deleted_time: 1752070316258
+end_time: 1752069655846
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: 86c1e4b889384f90bdea1c329758ba36
+run_name: gentle-owl-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752069614300
+status: 3
+tags: []
+user_id: emmanuel

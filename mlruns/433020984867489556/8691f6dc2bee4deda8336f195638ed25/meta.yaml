@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/8691f6dc2bee4deda8336f195638ed25/artifacts
+deleted_time: 1752066425425
+end_time: 1752056250094
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 8691f6dc2bee4deda8336f195638ed25
+run_name: aged-colt-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056224502
+status: 3
+tags: []
+user_id: emmanuel

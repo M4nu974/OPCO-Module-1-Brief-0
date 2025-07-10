@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/266aeaa4152b4f8fa1f994a41ff8f985/artifacts
+end_time: 1752051576802
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 266aeaa4152b4f8fa1f994a41ff8f985
+run_name: calm-jay-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051565564
+status: 3
+tags: []
+user_id: emmanuel

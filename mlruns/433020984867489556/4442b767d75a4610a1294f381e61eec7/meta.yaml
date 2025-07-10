@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/4442b767d75a4610a1294f381e61eec7/artifacts
+deleted_time: 1752066425440
+end_time: 1752061834394
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 4442b767d75a4610a1294f381e61eec7
+run_name: delightful-hawk-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752061811660
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/c2df021a21a941dbba891353d3e54897/artifacts
+end_time: 1752051768903
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: c2df021a21a941dbba891353d3e54897
+run_name: caring-shark-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051741949
+status: 3
+tags: []
+user_id: emmanuel

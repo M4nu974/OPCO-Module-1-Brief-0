@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/d84b3ab51a434763aa2edda8009f609e/artifacts
+end_time: 1752051361633
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: d84b3ab51a434763aa2edda8009f609e
+run_name: merciful-croc-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051347635
+status: 3
+tags: []
+user_id: emmanuel

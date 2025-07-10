@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/dbdaf94dabd54bd88d9da40e6846dbf1/artifacts
+deleted_time: 1752066425319
+end_time: 1752062979676
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: dbdaf94dabd54bd88d9da40e6846dbf1
+run_name: incongruous-bass-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752062959812
+status: 3
+tags: []
+user_id: emmanuel

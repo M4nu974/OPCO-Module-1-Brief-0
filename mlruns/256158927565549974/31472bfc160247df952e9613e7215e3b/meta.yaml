@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/31472bfc160247df952e9613e7215e3b/artifacts
+end_time: 1752051388090
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 31472bfc160247df952e9613e7215e3b
+run_name: exultant-dolphin-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051369307
+status: 3
+tags: []
+user_id: emmanuel

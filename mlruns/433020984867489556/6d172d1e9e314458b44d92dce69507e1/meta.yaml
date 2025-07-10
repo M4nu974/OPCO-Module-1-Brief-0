@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/6d172d1e9e314458b44d92dce69507e1/artifacts
+end_time: 1752067414744
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 6d172d1e9e314458b44d92dce69507e1
+run_name: rare-goat-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067370387
+status: 3
+tags: []
+user_id: emmanuel

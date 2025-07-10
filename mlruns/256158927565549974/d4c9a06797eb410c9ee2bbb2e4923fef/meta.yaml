@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/d4c9a06797eb410c9ee2bbb2e4923fef/artifacts
+end_time: 1752051845304
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: d4c9a06797eb410c9ee2bbb2e4923fef
+run_name: grandiose-ray-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051821605
+status: 3
+tags: []
+user_id: emmanuel

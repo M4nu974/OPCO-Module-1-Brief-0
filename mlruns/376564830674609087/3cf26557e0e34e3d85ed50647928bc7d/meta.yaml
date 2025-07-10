@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/3cf26557e0e34e3d85ed50647928bc7d/artifacts
+end_time: 1752070530832
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: 3cf26557e0e34e3d85ed50647928bc7d
+run_name: adorable-roo-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070490855
+status: 3
+tags: []
+user_id: emmanuel

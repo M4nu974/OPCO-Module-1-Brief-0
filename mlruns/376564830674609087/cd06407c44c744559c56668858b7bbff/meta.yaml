@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/cd06407c44c744559c56668858b7bbff/artifacts
+deleted_time: 1752070316272
+end_time: 1752070111237
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: cd06407c44c744559c56668858b7bbff
+run_name: unequaled-moose-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070081564
+status: 4
+tags: []
+user_id: emmanuel

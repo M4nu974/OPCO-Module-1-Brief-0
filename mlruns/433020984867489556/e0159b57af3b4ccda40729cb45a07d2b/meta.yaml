@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/e0159b57af3b4ccda40729cb45a07d2b/artifacts
+end_time: 1752067213399
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: e0159b57af3b4ccda40729cb45a07d2b
+run_name: marvelous-seal-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067189393
+status: 3
+tags: []
+user_id: emmanuel

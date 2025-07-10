@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/c3cdc58f4d894d388aea1d0f56789078/artifacts
+end_time: 1752066947203
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: c3cdc58f4d894d388aea1d0f56789078
+run_name: mysterious-foal-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066911119
+status: 3
+tags: []
+user_id: emmanuel

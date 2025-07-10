@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/a7753e1de68f40cab8e53abb9ff41f2d/artifacts
+end_time: 1752070606081
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: a7753e1de68f40cab8e53abb9ff41f2d
+run_name: auspicious-bee-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070590413
+status: 3
+tags: []
+user_id: emmanuel

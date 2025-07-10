@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/b4a9c4df88a547bd895cdb2a394196ba/artifacts
+end_time: 1752052078565
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: b4a9c4df88a547bd895cdb2a394196ba
+run_name: efficient-shark-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052060715
+status: 3
+tags: []
+user_id: emmanuel

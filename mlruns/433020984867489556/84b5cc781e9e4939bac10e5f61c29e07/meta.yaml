@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/84b5cc781e9e4939bac10e5f61c29e07/artifacts
+deleted_time: 1752055351827
+end_time: 1752054226609
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 84b5cc781e9e4939bac10e5f61c29e07
+run_name: hilarious-zebra-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054213101
+status: 3
+tags: []
+user_id: emmanuel

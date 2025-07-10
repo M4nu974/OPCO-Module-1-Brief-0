@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/67a6d774c7db443d988f9280287d1393/artifacts
+end_time: 1752051971510
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: 67a6d774c7db443d988f9280287d1393
+run_name: delicate-rook-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051941338
+status: 3
+tags: []
+user_id: emmanuel

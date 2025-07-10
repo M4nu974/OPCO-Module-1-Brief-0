@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/1668ba9efcbc469fbf8a8d15073d3f60/artifacts
+end_time: 1752073749187
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: 1668ba9efcbc469fbf8a8d15073d3f60
+run_name: redolent-hawk-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752073737707
+status: 3
+tags: []
+user_id: emmanuel

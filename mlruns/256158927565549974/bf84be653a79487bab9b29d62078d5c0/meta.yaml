@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/bf84be653a79487bab9b29d62078d5c0/artifacts
+end_time: 1752052140334
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: bf84be653a79487bab9b29d62078d5c0
+run_name: gaudy-gnat-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052108979
+status: 3
+tags: []
+user_id: emmanuel

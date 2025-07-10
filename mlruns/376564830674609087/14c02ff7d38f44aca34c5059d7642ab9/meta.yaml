@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/14c02ff7d38f44aca34c5059d7642ab9/artifacts
+deleted_time: 1752070316270
+end_time: 1752069493045
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: deleted
+run_id: 14c02ff7d38f44aca34c5059d7642ab9
+run_name: traveling-deer-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752069466301
+status: 3
+tags: []
+user_id: emmanuel

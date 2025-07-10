@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/1b95b0ca72684082a1fe159edc8c4f8c/artifacts
+deleted_time: 1752066425425
+end_time: 1752055915025
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 1b95b0ca72684082a1fe159edc8c4f8c
+run_name: thoughtful-fox-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055881319
+status: 3
+tags: []
+user_id: emmanuel

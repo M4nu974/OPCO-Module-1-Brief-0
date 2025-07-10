@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/57d8bbc99f7545f887d46de39baf8a18/artifacts
+end_time: 1752067337694
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 57d8bbc99f7545f887d46de39baf8a18
+run_name: legendary-hawk-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067295870
+status: 3
+tags: []
+user_id: emmanuel

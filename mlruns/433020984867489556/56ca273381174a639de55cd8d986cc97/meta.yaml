@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/56ca273381174a639de55cd8d986cc97/artifacts
+deleted_time: 1752066425410
+end_time: 1752060463173
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 56ca273381174a639de55cd8d986cc97
+run_name: judicious-bat-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752060432970
+status: 3
+tags: []
+user_id: emmanuel

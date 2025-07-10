@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/59a5017298e14eb4b68eef39b838dd5e/artifacts
+end_time: 1752066658608
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 59a5017298e14eb4b68eef39b838dd5e
+run_name: dashing-hog-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066635254
+status: 3
+tags: []
+user_id: emmanuel

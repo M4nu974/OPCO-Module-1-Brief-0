@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/7985ae2736ac460ea17866575c18f035/artifacts
+deleted_time: 1752055351825
+end_time: 1752054649821
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 7985ae2736ac460ea17866575c18f035
+run_name: rambunctious-sow-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054640856
+status: 3
+tags: []
+user_id: emmanuel

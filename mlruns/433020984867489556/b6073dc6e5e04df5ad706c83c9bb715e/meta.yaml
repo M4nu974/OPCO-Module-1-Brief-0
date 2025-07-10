@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/b6073dc6e5e04df5ad706c83c9bb715e/artifacts
+deleted_time: 1752066425454
+end_time: 1752056761133
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: b6073dc6e5e04df5ad706c83c9bb715e
+run_name: bustling-kit-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056734370
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/2bfaa512eaa845d7b59e295098d4571f/artifacts
+deleted_time: 1752066425399
+end_time: 1752056565160
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 2bfaa512eaa845d7b59e295098d4571f
+run_name: awesome-whale-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056551179
+status: 3
+tags: []
+user_id: emmanuel

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/c096604b7c3e4bc5ad51b4aff3824d79/artifacts
+end_time: 1752052391660
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: c096604b7c3e4bc5ad51b4aff3824d79
+run_name: thundering-mare-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752052359201
+status: 3
+tags: []
+user_id: emmanuel

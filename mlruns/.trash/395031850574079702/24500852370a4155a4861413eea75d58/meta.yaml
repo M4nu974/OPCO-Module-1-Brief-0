@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395031850574079702/24500852370a4155a4861413eea75d58/artifacts
+deleted_time: 1752049824572
+end_time: 1752046093960
+entry_point_name: ''
+experiment_id: '395031850574079702'
+lifecycle_stage: deleted
+run_id: 24500852370a4155a4861413eea75d58
+run_name: receptive-fox-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752046089812
+status: 3
+tags: []
+user_id: emmanuel

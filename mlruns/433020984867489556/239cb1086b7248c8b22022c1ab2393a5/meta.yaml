@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/239cb1086b7248c8b22022c1ab2393a5/artifacts
+end_time: 1752067011705
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 239cb1086b7248c8b22022c1ab2393a5
+run_name: magnificent-jay-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066976851
+status: 3
+tags: []
+user_id: emmanuel

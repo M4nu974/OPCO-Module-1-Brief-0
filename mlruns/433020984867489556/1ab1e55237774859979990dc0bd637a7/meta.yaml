@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/1ab1e55237774859979990dc0bd637a7/artifacts
+deleted_time: 1752055351825
+end_time: 1752054195670
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 1ab1e55237774859979990dc0bd637a7
+run_name: secretive-sheep-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752054185004
+status: 3
+tags: []
+user_id: emmanuel

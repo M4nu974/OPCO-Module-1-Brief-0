@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/e3899a037a6440e993eb75dd10e3dcb5/artifacts
+deleted_time: 1752066425349
+end_time: 1752055660851
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: e3899a037a6440e993eb75dd10e3dcb5
+run_name: sassy-flea-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752055623889
+status: 3
+tags: []
+user_id: emmanuel

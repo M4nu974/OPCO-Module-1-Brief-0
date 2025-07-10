@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/001426f7a0dd4ffbbe97efbaab80e865/artifacts
+end_time: 1752049679521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 001426f7a0dd4ffbbe97efbaab80e865
+run_name: learned-pug-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752049660440
+status: 3
+tags: []
+user_id: emmanuel

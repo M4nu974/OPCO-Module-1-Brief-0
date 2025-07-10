@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/2d6f388b2ba9456b876b2da7a50d6b9d/artifacts
+deleted_time: 1752066425424
+end_time: 1752056626664
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: deleted
+run_id: 2d6f388b2ba9456b876b2da7a50d6b9d
+run_name: fortunate-toad-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752056596563
+status: 3
+tags: []
+user_id: emmanuel

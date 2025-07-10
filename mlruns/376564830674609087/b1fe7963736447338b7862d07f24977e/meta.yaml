@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/b1fe7963736447338b7862d07f24977e/artifacts
+end_time: 1752073779152
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: b1fe7963736447338b7862d07f24977e
+run_name: receptive-turtle-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752073768269
+status: 3
+tags: []
+user_id: emmanuel

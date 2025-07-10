@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/591b2b5e408942a8bfc4a07e4f5b3599/artifacts
+end_time: 1752045499761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 591b2b5e408942a8bfc4a07e4f5b3599
+run_name: delightful-stork-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752045495658
+status: 4
+tags: []
+user_id: emmanuel

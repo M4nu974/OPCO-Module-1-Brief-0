@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/376564830674609087/e69fd19be6604e4a80e150a01d0f9506/artifacts
+end_time: 1752070837706
+entry_point_name: ''
+experiment_id: '376564830674609087'
+lifecycle_stage: active
+run_id: e69fd19be6604e4a80e150a01d0f9506
+run_name: nebulous-fox-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752070812016
+status: 3
+tags: []
+user_id: emmanuel

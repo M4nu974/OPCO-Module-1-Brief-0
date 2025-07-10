@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/433020984867489556/5fae13f320ab4dd581afd516456d1855/artifacts
+end_time: 1752067593279
+entry_point_name: ''
+experiment_id: '433020984867489556'
+lifecycle_stage: active
+run_id: 5fae13f320ab4dd581afd516456d1855
+run_name: masked-trout-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752067562257
+status: 3
+tags: []
+user_id: emmanuel

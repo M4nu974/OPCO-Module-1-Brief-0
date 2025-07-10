@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/1c5dba7a37d34a50a60d94e5c1a6a93a/artifacts
+deleted_time: 1752050480281
+end_time: 1752050332499
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: deleted
+run_id: 1c5dba7a37d34a50a60d94e5c1a6a93a
+run_name: smiling-squid-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752050319796
+status: 3
+tags: []
+user_id: emmanuel

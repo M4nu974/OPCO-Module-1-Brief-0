@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/256158927565549974/db8a927cb5df4cdf892f09ae3c33c9ca/artifacts
+end_time: 1752051600241
+entry_point_name: ''
+experiment_id: '256158927565549974'
+lifecycle_stage: active
+run_id: db8a927cb5df4cdf892f09ae3c33c9ca
+run_name: bouncy-crab-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752051576814
+status: 3
+tags: []
+user_id: emmanuel
