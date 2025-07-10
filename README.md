@@ -1,24 +1,18 @@
-# 🚀 Notre super modèle d'iA (oui, avec un petit 'i' pour l'humilité... ou pas) 🚀
-
-Salut à toi, explorateur du code, curieux de l'IA (ou juste là pour le café) ! Bienvenue dans le saint des saints de la prédiction, là où les bits dansent et les neurones... bah, ils calculent. On a concocté un truc pas piqué des hannetons, alors attache ta ceinture !
+# M1 - Brief 0 Entrainement de modèle
 
 ---
 
-#### 🛠️ Installation : Prêt à décoller ? 🛠️
+### Les éléments suivants ont été testés à partir du projet github :
+https://github.com/DeVerMyst/OPCO-Module-1-Brief-0.git
 
-Pour que notre fusée de l'IA ne se transforme pas en vulgaire caillou, il faut un minimum de préparation.
-
-###### Le `.venv` (alias, notre petite bulle de sérénité)
-
-Pour éviter que ce projet ne mette le bazar dans ton PC (et vice-versa), on utilise un environnement virtuel. C'est comme une petite bulle magique où toutes les dépendances du projet vivent en harmonie, loin des conflits extérieurs.
-
-Si tu as Python (et un peu de chance) :
-
+---
+### Installation
+Mettre en place un environnement virtuel Python:
 ```bash
 python -m venv .venv
 ```
 
-Puis active-le (c'est le moment "abra cadabra") :
+Puis l'activer:
 
 * **Windows (PowerShell) :**
     ```bash
@@ -32,75 +26,61 @@ Puis active-le (c'est le moment "abra cadabra") :
     ```bash
     source .venv/bin/activate
     ```
-Félicitations ! Tu es dans notre bulle. Ne respire pas trop fort, l'air y est précieux.
 
-###### Le `requirements.txt` (alias, la liste de courses pour les geeks)
-
-Maintenant que tu es dans la bulle, il faut la meubler avec les outils nécessaires. Ce fichier contient tout ce qu'il faut pour que Python comprenne nos blagues (et nos calculs).
-
-Assure-toi que ton `.venv` est activé, puis :
+Puis, récupérer les librairies nécessaires au fonctionnement du projet:
 
 ```bash
 pip install -r requirements.txt
 ```
+Lancer la commande :
 
-Ça va mouliner un peu. C'est normal. C'est la magie qui s'opère.
-
----
-
-#### 🧠 Le Modèle : Notre cerveau artificiel (enfin, un bout) 🧠
-
-Oublie les super-ordinateurs qui prennent toute une pièce. Notre bijou, c'est un **super Neural Network (NN)** ! Oui oui, un NN à l'état de l'art (pour nous, en tout cas). Il est si avancé qu'il a :
-
-* **2 couches "dense"** : parce que "dense", c'est le futur. Plus c'est dense, mieux c'est, n'est-ce pas ? 😉
-* **1 couche de prédiction** : c'est là que la magie se produit. Elle crache la réponse, et on espère qu'elle a raison.
-
-Prépare-toi à être émerveillé (ou juste à voir des chiffres, c'est selon).
-
----
-
-#### 🗺️ Architecture : Où va quoi dans notre petit monde ? 🗺️
-
-Pour ne pas se perdre dans les méandres de notre génie, voici comment on a organisé notre projet. C'est un peu comme une carte au trésor, mais le trésor, c'est le code !
-
-```
-.
-├── data/
-│   ├── df_new.csv
-│   └── df_old.csv
-├── models/
-│   ├── models.py
-│   ├── model_2024_08.pkl
-│   └── preprocessor.pkl
-├── modules/
-│   ├── evaluate.py
-│   ├── preprocess.py
-│   └── print_draw.py
-├── .gitignore
-├── README.md
-├── main.py
-└── requirements.txt
+```bash
+mlflow ui
 ```
 
-###### `data/` (Le garde-manger du projet)
-Ici, c'est là que nos précieuses données vivent.
-* `df_new.csv` : Les données fraîches du jour, prêtes à être dévorées par notre IA.
-* `df_old.csv` : Les classiques, les vétérans, ceux qui ont tout vu. On les garde par nostalgie (et pour la rétrospective).
-
-###### `models/` (Le garage à cerveaux)
-Ce dossier, c'est notre caverne d'Ali Baba des cerveaux artificiels.
-* `models.py` : Les plans de nos futurs cyborgs... euh, de nos modèles. C'est ici que l'on définit l'architecture de nos NN et autres merveilles.
-* `model_2024_08.pkl` : Une version sauvegardée de notre modèle. On l'a encapsulé pour qu'il ne s'échappe pas et ne domine pas le monde... pas encore.
-* `preprocessor.pkl` : L'outil magique qui prépare les données avant de les donner à manger au modèle. Sans lui, c'est l'indigestion assurée !
-
-###### `modules/` (La boîte à outils de MacGyver)
-Ce sont nos couteaux suisses du code. Chaque fichier est un expert dans son domaine.
-* `evaluate.py` : Le juge impitoyable qui dit si notre modèle est un génie ou un cancre.
-* `preprocess.py` : Le chef cuisinier des données. Il les nettoie, les coupe, les assaisonne pour qu'elles soient parfaites pour notre IA.
-* `print_draw.py` : L'artiste du groupe. Il transforme nos chiffres barbares en beaux graphiques pour que même ta grand-mère puisse comprendre (enfin, presque).
+Pour visualiser les différents résultats de test
 
 ---
+## Dataset _Assurances_:
+### 1. Utilisation du dataset `ds_old.csv`,
 
-On espère que cette petite virée dans notre projet t'a plu. N'hésite pas à jeter un œil au `main.py` pour lancer le grand spectacle !
+Génération d'un modèle permettant de prédire le montant total sinistre à partir des données suivantes :
+- "age",
+- "anciennete_contrat",
+- "nombre_sinistres"
+- "region",
+  Les autres données n'ont pas été prise en compte, car jugées sans corrélation avec le calcul du montant de sinistre.
 
-*Fait avec amour, code et une bonne dose de caféine (et un peu de folie).*
+Apres entrainement avec multiples combinaisons de valeurs d'`epoch`, `test_size` et `batch_size`, le meilleur score **R²** obtenu
+est de `0.76` avec:
+- EPOCHS = 30
+- BATCH_SIZE = 7
+- TEST_SIZE = 0.6
+
+### 2. Utilisation du dataset `ds_new.csv`,
+
+Le modèle généré avec le dataset `ds_old.csv` est capable de faire des prédictions sur le dataset
+`ds_new.csv` grace au code qui récupère les colonnes dont il a besoin en amont.
+
+Pour entrainer un nouveau modèle à partir du dataset `ds_new.csv` seules les colonnes suivantes ont été retenues:
+- age
+- nombre_sinistres
+- probabilite_sinistre
+- region
+- participation_prevention
+
+**La colonne `montant_sinistre_estime` n'a pas été prise en compte du fait du caractère aléatoire qu'elle présentait.
+Par exemple plusieurs lignes avec `nombre_sinistres` et  `montant_total_sinistres` à `0`, la valeur dans la colonne `montant_sinistre_estime` est supérieure à `0`**
+
+Après entrainement avec plusieurs combinaisons de valeurs d'`epoch`, `test_size` et `batch_size`, le meilleur score **R²** obtenu
+est de `0.68` avec:
+- EPOCHS = 35
+- BATCH_SIZE = 6
+- TEST_SIZE = 0.7
+
+
+## Modifications réalisées sur le code existant:
+
+- Ajout d'une boucle permettant d'automatiser l'entrainement et les tests
+- Ajout d'un aspect aléatoire pour `EPOCHS`, `BATCH_SIZE` et `TEST_SIZE`
+- Connexion avec ML FLOW pour visualiser les résultats et pouvoir trier par le paramètre R² afin d'obtenir les meilleurs paramètres
