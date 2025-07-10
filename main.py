@@ -30,12 +30,9 @@ mlflow.set_experiment("RUNS Assurances NEW DATA")
 
 for i in range(1):
     # Générer des hyperparamètres aléatoires dans les bornes spécifiées
-    # EPOCHS = round(random.randint(20, 500),10)
-    # BATCH_SIZE =int(EPOCHS/8)
-    # TEST_SIZE = round(random.uniform(0.5, 0.9),1)
-    EPOCHS = 35
-    BATCH_SIZE = 6
-    TEST_SIZE = 0.7
+    EPOCHS = round(random.randint(20, 500),10)
+    BATCH_SIZE =int(EPOCHS/8)
+    TEST_SIZE = round(random.uniform(0.5, 0.9),1)
 
     # Split des données avec la taille de test aléatoire
     X_train, X_test, y_train, y_test = split(X, y, test_size=TEST_SIZE, random_state=42)
@@ -76,4 +73,4 @@ for i in range(1):
         # mlflow.sklearn.log_model(model_loaded, name=f"assurances_old_data")
 
     # Optionnel : dessiner la courbe de perte pour chaque run
-draw_loss(hist)
+#draw_loss(hist)
